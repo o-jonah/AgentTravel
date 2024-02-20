@@ -29,3 +29,9 @@ formBtn.addEventListener('click',() =>{
 formClose.addEventListener('click',() =>{   
     loginForm.classList.remove ('active');
 });
+
+
+// Help me to solve this problem of the code
+// I am trying to make a responsive navbar but it is not working properly
+// I am trying to make a review section but it is not working properly
+// Javascript go de refuse to work
